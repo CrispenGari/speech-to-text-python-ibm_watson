@@ -5,8 +5,8 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 import json
 
 # service credentials
-url = "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/1f816cf3-deb9-4be2-98e6-80e48010cc95"
-api_key = "mw-7gcNVegedMF3YHffMYkhmGPlUeqr-Kh0kUzw_cEui"
+url = "API_KEY"
+api_key = "URL"
 
 # Setting the authentication
 try:
